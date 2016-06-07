@@ -3,3 +3,4 @@ lang:python
 lang:arduino
 lang:particle
 sku:PCA9536_I2CIO
+sku:PCA9536_I2CBZ
