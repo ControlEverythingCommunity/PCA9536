@@ -69,7 +69,7 @@ void loop()
     {
       Particle.publish("I/O Pin ", String(i) + " State is HIGH");
     }
-    delay(500);
+    delay(1000);
   }
 }
 
